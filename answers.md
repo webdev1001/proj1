@@ -27,3 +27,5 @@ Same name but all lowercase
 Project was fun. Rain into problem where trainer names weren't displaying in trainers#index, after reseting db. Turns out that we need to restart server after resetingg db.
 
 # Extra credit: Link your Heroku deployed app
+
+radiant-sierra-7109.herokuapp.com
