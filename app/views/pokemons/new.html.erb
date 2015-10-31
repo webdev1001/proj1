@@ -1,0 +1,4 @@
+<%= simple_form_for :pokemon, url: pokemon_path do |f| %> <!-- cant used @pokemon because variable not defined. use :pokemon to specify what form is for. -->
+<%= f.input :name %>
+<%= f.button :submit, "Create new Pokemon" %>
+<% end %>
